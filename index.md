@@ -1,5 +1,5 @@
 
-¤ super overskrift
+# super overskrift
 ## Denne side tilhører SLMalling
 ### underoverskrift
 Opbygningen af siden er løbende startet siden den 1. august 2018
